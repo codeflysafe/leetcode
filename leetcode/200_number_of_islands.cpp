@@ -33,3 +33,10 @@ public:
 
     }
 };
+
+int main(){
+    Solution sc;
+    vector<vector<char>> grids = { {'1','1'}};
+    cout << sc.numIslands(grids);
+    return 0;
+}

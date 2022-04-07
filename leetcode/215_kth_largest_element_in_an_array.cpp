@@ -2,7 +2,7 @@
 // Created by sjhuang on 2022/4/2.
 //
 #include "leetcode.h"
-using namespace  std;
+
 class Solution {
 public:
 
