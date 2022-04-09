@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(./include)
 
-add_executable(leetcode leetcode/310_minimum_height_trees.cpp)
+add_executable(leetcode leetcode/16_3sum_cloest.cpp)
