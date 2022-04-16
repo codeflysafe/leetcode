@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(./include)
 
-add_executable(leetcode leetcode/16_3sum_cloest.cpp)
+add_executable(leetcode weekly-contest/2022-spring/q3.cpp)

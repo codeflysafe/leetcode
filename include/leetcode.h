@@ -12,6 +12,7 @@
 #include <unordered_set>
 #include <set>
 #include <map>
+#include <stack>
 
 using namespace  std;
 
@@ -23,5 +24,11 @@ struct ListNode {
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+};
 
 #endif //LEETCODE_LEETCODE_H
