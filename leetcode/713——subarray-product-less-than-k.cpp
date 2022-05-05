@@ -13,7 +13,7 @@ public:
         long long cur = nums[0];
         int ans = 0;
         while (r < n){
-            // 向后一步，知道不符合条件
+            // 向后一步，直到不符合条件
             while (r < n && cur < k){
                 r ++;
                 if(r < n) cur = cur * nums[r];
