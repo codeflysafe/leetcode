@@ -13,6 +13,8 @@
 #include <set>
 #include <map>
 #include <stack>
+#include <algorithm>
+#include <list>
 
 using namespace  std;
 

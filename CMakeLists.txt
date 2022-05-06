@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(./include)
 
-add_executable(leetcode leetcode/151_reverse-words-in-a-string.cpp)
+add_executable(leetcode leetcode/49_group-anagrams.cpp)
