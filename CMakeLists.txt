@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(./include)
 
-add_executable(leetcode leetcode/47_permutations-ii.cpp)
+add_executable(leetcode leetcode/215_kth-largest-element-in-an-arra.cpp)
