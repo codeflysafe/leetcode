@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(./include)
 
-add_executable(leetcode leetcode/215_kth-largest-element-in-an-arra.cpp)
+add_executable(leetcode weekly-contest/biweekly-contest-79/10011_booking-concert-tickets-in-groups.cpp)
